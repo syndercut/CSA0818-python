@@ -1,0 +1,2 @@
+def is_palindrom(lst):
+    return lst == lst[::-1]
