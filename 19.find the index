@@ -1,0 +1,5 @@
+l1=[1,2,34,4,0,8]
+n = int(input('enter the element))
+for i in range (n):
+   if(i ==n):
+       print(l1.index(i))
